@@ -50,4 +50,4 @@ Sebelum menjalankan langkah-langkah di atas, pastikan bahwa:
 https://github.com/aliennn04/UTS_TI19220007_RizalEpendi.git
 ## LINK DEPLOY 
 
-uts-react-yven.vercel.app 
+uts-ti-19220007-rizal-ependi-nlxg.vercel.app
