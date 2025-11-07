@@ -47,7 +47,7 @@ Sebelum menjalankan langkah-langkah di atas, pastikan bahwa:
 
  
 ## LINK REPOSTORY 
-https://github.com/aliennn04/uts_react.git 
+https://github.com/aliennn04/UTS_TI19220007_RizalEpendi.git
 ## LINK DEPLOY 
 
 uts-react-yven.vercel.app 
